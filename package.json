@@ -1,0 +1,12 @@
+{
+  "name": "Bai3-CongCu",
+  "version": "1.0.0",
+  "description": "Bài 3: CI/CD with GitHub, Jira, and Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
